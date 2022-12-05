@@ -1,0 +1,11 @@
+A = Rock
+B = Paper
+C = Scissors
+
+X = Lose
+Y = Draw
+C = Win
+
+A, X = (3, 1)
+A, Y = (6, 2)
+A, Z = (0, 3)
